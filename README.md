@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MongoDB, Express.js, Node.js, JavaScript**
 
-- 📫 How to reach me **silpasheelassk@gmail.com**
+- 📫 Reach me via **silpasheelassk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
