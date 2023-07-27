@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silpa Sreekumar</h1>
-<h3 align="center">An aspiring MERN Stack developer</h3>
+<h3 align="center">Aspiring MERN Stack developer</h3>
 
-<img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" align="center">
+<img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 
 - 🌱 I’m currently learning **ReactJS**
 
