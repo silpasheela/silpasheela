@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on my **Second Project**
 
-- 💬 Ask me about **MongoDB, Express.js, Node.js, React.js, JavaScript**
+- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
 
 - 📫 Reach me via **silpasheelassk@gmail.com**
 
