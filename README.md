@@ -3,9 +3,9 @@
 
 <img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently working on my **Second Project**
 
-- 💬 Ask me about **MongoDB, Express.js, Node.js, JavaScript**
+- 💬 Ask me about **MongoDB, Express.js, Node.js, React.js, JavaScript**
 
 - 📫 Reach me via **silpasheelassk@gmail.com**
 
