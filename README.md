@@ -9,7 +9,7 @@
 
 - 📫 Reach me via **silpasheelassk@gmail.com**
 
-- **[Portfolio](https://silpasheelassk.vercel.app/)**
+- 📄 **[Explore My Portfolio Now!](https://silpasheelassk.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
