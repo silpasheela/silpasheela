@@ -3,7 +3,7 @@
 
 <img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 
-- 🌱 I’m currently working on my **Second Project**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
 
