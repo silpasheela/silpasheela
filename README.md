@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Silpa Sreekumar</h1>
-<h3 align="center">Aspiring MERN Stack developer</h3>
+<h3 align="center">Aspiring Cross-Platform Developer</h3>
 
 <img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript**
+- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, TypeScript, React Native**
 
 - 📫 Reach me via **silpasheelassk@gmail.com**
 
