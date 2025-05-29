@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silpa Sreekumar</h1>
-<h3 align="center">Aspiring Cross-Platform Developer</h3>
+<h3 align="center">Cross-Platform Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
