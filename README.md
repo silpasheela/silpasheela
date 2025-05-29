@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silpa Sreekumar</h1>
 <h3 align="center">Aspiring Cross-Platform Developer</h3>
 
-<img width="400px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
+<img width="400px" src="https://almablog-media.s3.ap-south-1.amazonaws.com/MERN_Stack_9437df2ba9_62af1dd3fc.png" style="align-items: center">
 
 - 🌱 I’m currently learning **TypeScript**
 
